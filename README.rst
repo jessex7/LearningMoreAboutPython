@@ -1,0 +1,1 @@
+My solutions to project euler problems. This will not include any solutions beyond the first 100 problems.
